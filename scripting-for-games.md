@@ -18,7 +18,7 @@ The size decrease powerup.
 
 ### Video
 
-[**Project 1 Vid Link →**](https://youtu.be/jherv7KNvCM)
+[**SFG Project 1 Vid Link →**](https://youtu.be/jherv7KNvCM)
 
 <iframe
   width="100%"
@@ -50,7 +50,7 @@ Wall Running
 
 ### Video
 
-[**Project 2 Vid Link →**](https://youtu.be/Yqe7Cr7bF4I)
+[**SFG Project 2 Vid Link →**](https://youtu.be/Yqe7Cr7bF4I)
 
 <iframe
   width="100%"
@@ -88,7 +88,7 @@ At first, the issue seemed to be properly detecting the player controller, but t
 
 ### Video
 
-[**Project 3 Vid Link →**](https://youtu.be/DrDMOcbFsaU)
+[**SFG Project 3 Vid Link →**](https://youtu.be/DrDMOcbFsaU)
 
 <iframe
   width="100%"
