@@ -13,17 +13,19 @@
 
 ### Environment Showcase
 
+*Roof Off | since I couldn't figure out lighting at this time*
+
 ![Virtual Environment Project 1](images/VE_SU26_LocalTournament_RoofOff.png)
 
-*Roof Off since I couldn't figure out lighting at this time*
 
 ---
+
+*Roof on*
 
 ![Virtual Environment Screenshot 2](images/VE_SU26_LocalTournament_RoofOn2.png)
 
 ![Virtual Environment Screenshot 3](images/VE_SU26_LocalTournament_RoofOn3.png)
 
-*Roof on*
 
 ---
 ## Project 2 (Cyberpunk Environment) -
@@ -38,15 +40,17 @@
 
 ### Environment Showcase
 
+*Initial Blockout*
+
 ![VEProjectBlockout](images/VE_SU26_InitialBlockout.png)
 
-*Initial Blockout*
 
 ---
 
+*Final Pass*
+
 ![VEProjectFinal](images/VE_SU26_FinalPass.png)
 
-*Final Pass*
 
 ---
 
