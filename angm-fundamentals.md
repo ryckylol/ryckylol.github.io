@@ -23,7 +23,7 @@
   width="100%"
   height="500"
   src="https://www.youtube.com/embed/3hO1iawinvA?si=s7SrE68XV6dpU-TY"
-  title="Level Design Project"
+  title="Animation and Games Fundamentals Project"
   frameborder="0"
   allowfullscreen>
 </iframe>
