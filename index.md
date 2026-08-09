@@ -38,22 +38,22 @@
 ## Skills
 #### In order of competence, I think.
 
-### Game Design
-### Level Design
-### Virtual Environments
-### Scripting
+### - Game Design
+### - Level Design
+### - Virtual Environments
+### - Scripting
 
 ---
 
 # Schoolwork
 
-### [Level Design →](level-design.md)
+### - [Level Design →](level-design.md)
 
-### [Scripting for Games →](scripting-for-games.md)
+### - [Scripting for Games →](scripting-for-games.md)
 
-### [Virtual Environments →](virtual-environments.md)
+### - [Virtual Environments →](virtual-environments.md)
 
-### [ANGM Fundamentals →](angm-fundamentals.md)
+### - [ANGM Fundamentals →](angm-fundamentals.md)
 
 ---
 
