@@ -12,7 +12,7 @@
 > A 2D beat 'em up game set in the Arctic, built with Pygame and Aseprite. Play as a penguin wielding a fish and fight your way through waves of enemies to defeat the final boss.
 
 
-[**Fishsmack Demo Video Link →**](https://www.youtube.com/watch?v=AbCdEf123)
+[**Fishsmack Demo Video Link →**](https://youtu.be/wtl3n3csMGM?si=TzmRBC8R4KKUEpq1)
 
 ### Project Highlights
 
