@@ -1,0 +1,50 @@
+# Ricky DePolo
+
+### Game Development Portfolio
+
+
+---
+
+## Main Showcase Project
+
+# [Fishsmack]
+
+> A 2D beat 'em up game set in the Arctic, built with Pygame and Aseprite. Play as a penguin wielding a fish and fight your way through waves of enemies to defeat the final boss.
+
+
+[**Fishsmack Demo Video Link →**](https://www.youtube.com/watch?v=AbCdEf123)
+
+### Project Highlights
+
+- **Libraries Used:** [Pygame]
+- **Languages:** [Python]
+
+[**View Repository →**](https://github.com/ryckylol/Fishsmack)
+
+---
+
+## Skills
+#### In order of competence, I think.
+
+### Game Design
+### Level Design
+### Virtual Environments
+### Scripting
+
+---
+
+# Schoolwork
+
+### [Level Design →](level-design.md)
+
+### [Scripting for Games →](scripting-for-games.md)
+
+### [Virtual Environments →](virtual-environments.md)
+
+### [ANGM Fundamentals →](angm-fundamentals.md)
+
+---
+
+## Contact
+
+[GitHub](https://github.com/ryckylol) · [LinkedIn](linkedin.com/in/rickydepolo1980) · [Email](rickydepolodev@gmail.com)
