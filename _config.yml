@@ -1,0 +1,8 @@
+title: "Your Name | Game Development Portfolio"
+description: "Game development portfolio showcasing level design, scripting, virtual environments, and game development fundamentals."
+theme: jekyll-theme-cayman
+
+show_downloads: false
+
+github:
+  is_project_page: false
