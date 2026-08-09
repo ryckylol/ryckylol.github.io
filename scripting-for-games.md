@@ -19,6 +19,15 @@ The size decrease powerup.
 
 [**Project 1 Vid Link →**](https://youtu.be/jherv7KNvCM)
 
+<iframe
+  width="100%"
+  height="500"
+  src="https://www.youtube.com/embed/jherv7KNvCM?si=uBfnanfEEw6cvvQ6"
+  title="Level Design Project"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 
 ---
 
@@ -41,6 +50,16 @@ Wall Running
 ### Video
 
 [**Project 2 Vid Link →**](https://youtu.be/Yqe7Cr7bF4I)
+
+<iframe
+  width="100%"
+  height="500"
+  src="https://www.youtube.com/embed/Yqe7Cr7bF4I?si=r0GQKvdrhWJeHvH7"
+  title="Level Design Project"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 
 ---
 
@@ -69,6 +88,15 @@ At first, the issue seemed to be properly detecting the player controller, but t
 ### Video
 
 [**Project 3 Vid Link →**](https://youtu.be/DrDMOcbFsaU)
+
+<iframe
+  width="100%"
+  height="500"
+  src="https://www.youtube.com/embed/DrDMOcbFsaU?si=EupUcFy2X1iYHkd2"
+  title="Level Design Project"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 
 
 ---
