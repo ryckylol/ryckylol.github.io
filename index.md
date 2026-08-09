@@ -30,6 +30,7 @@
 
 - **Libraries Used:** [Pygame]
 - **Languages:** [Python]
+- **Software Used:** [VSCode, Aseprite]
 
 [**View Repository →**](https://github.com/ryckylol/Fishsmack)
 
