@@ -30,10 +30,10 @@ Gained a better understanding of the UE physics system.
 Utilized Line Trace By Channel and Macros to create the wall running mechanic (used a tutorial for some parts, and even then there are still some bugs, but I’m happy with it for this short project since this was learning I sought outside of class materials).
 #### What I added outside of class materials (Order of difficulty for me top > bottom) - 
 Added additional functionality to the sprint mechanic created using class tutorials, where the player slows down if they completely run out of stamina.
-Reload / limited ammo mechanic
-Turret (damage player function broke while recording, but it still causes barrels to explode)
-Explosive crate
-Force push
+Reload / limited ammo mechanic,
+Turret (damage player function broke while recording, but it still causes barrels to explode).
+Explosive crate,
+Force push,
 Wall Running
 
 
@@ -55,9 +55,9 @@ Created an enemy using blackboards and behavior trees.
 Gained experience creating more complex gameplay systems by combining states, AI, interactions, and audio / visual feedback.
 
 #### What I added outside of class materials -
-Slow Time pickup 
-Thwomp-like trap
-Sticky floors that slow the player while walking over them
+Slow Time pickup, 
+Thwomp-like trap,
+Sticky floors that slow the player while walking over them,
 Key door system
 
 #### Issues that I encountered - 
