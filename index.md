@@ -46,7 +46,7 @@
 
 ---
 
-# Schoolwork
+# Projects
 
 ### - [Level Design →](level-design.md)
 
