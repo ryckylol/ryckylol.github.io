@@ -16,7 +16,7 @@ Simple design philosophy of carry-over progression with cubes and puzzles with a
 
 ### Video
 
-[**Youtube Link →**](https://youtu.be/EfIsoZi6nI4)
+[**Level Design Project Vid Link →**](https://youtu.be/EfIsoZi6nI4)
 
 <iframe
   width="100%"
