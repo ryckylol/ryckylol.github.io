@@ -10,6 +10,8 @@
 
 Simple design philosophy of carry-over progression with cubes and puzzles with a touch of platforming.
 
+- **Software Used:** [Unreal Engine]
+
 ![Level Design Screenshot](images/LevelDesignSU24.png)
 
 ### Video
