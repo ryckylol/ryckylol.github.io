@@ -6,7 +6,7 @@
 
 ## Level Design Project
 
-> Final project for my level design class at Dallas College SU24; the third section didn't have much thought put into it, unfortunately.
+> Final project for my level design class at Dallas College SU24.
 
 Simple design philosophy of carry-over progression with cubes and puzzles with a touch of platforming.
 
