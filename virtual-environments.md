@@ -5,7 +5,7 @@
 ---
 
 ## Project 1 (game shop / local tournament) -
-
+- **Software Used:** [Unreal Engine 5]
 > Reinforced previous learning experiences from level design (blocking out), though instead of playable functionality, it focuses on creating snapshots of environments.
 
 ### Project Overview
@@ -27,7 +27,7 @@
 
 ---
 ## Project 2 (Cyberpunk Environment) -
-
+- **Software Used:** [Unreal Engine 5, Maya, Substance Sampler / Painter]
 > Learned the standard pipeline workflow for creating assets and scenes in Maya and UE5. Gained a better understanding of working through the cameras pov. Reinforced standard modeling fundamentals. Retopology.
 
 
