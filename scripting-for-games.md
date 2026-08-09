@@ -1,6 +1,7 @@
 # Scripting for Games
 Focused on creating gameplay systems instead of full levels or gameplay loops
-- **Software Used:** [Unreal Engine]
+- **Software Used:** [Unreal Engine 5]
+- **Languages Used:** [Blueprint System in UE5]
 
 [← Back to Portfolio](index.md)
 
