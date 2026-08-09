@@ -59,4 +59,7 @@
 
 ## Contact
 
-[GitHub](https://github.com/ryckylol) · [LinkedIn](linkedin.com/in/rickydepolo1980) · [Email](rickydepolodev@gmail.com)
+- [GitHub] "https://github.com/ryckylol"
+- [LinkedIn] "https://linkedin.com/in/rickydepolo1980"
+- [Discord] "ryckylol"
+- [Email] "rickydepolodev@gmail.com"
