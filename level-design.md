@@ -10,6 +10,8 @@
 
 Simple design philosophy of carry-over progression with cubes and puzzles with a touch of platforming.
 
+![Level Design Screenshot](images/LevelDesignSU24.png)
+
 ### Video
 
 [**Youtube Link →**](https://youtu.be/EfIsoZi6nI4)
