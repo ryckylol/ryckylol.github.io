@@ -34,7 +34,6 @@
 
 
 ### Project Overview
-#### The whole first project was student-made, with the limiting factor being that we were only allowed to use primitives.
 #### UV unwrapping objects with unique features. Learned how powerful the Adobe software can be when used in combination with each other (such as transferring things like already created features from Sampler to Painter).
 #### Learned how to create and utilize materials, smart materials, brushes, and more in Substance Painter.
 
