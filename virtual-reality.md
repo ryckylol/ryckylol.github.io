@@ -1,1 +1,1 @@
-test
+Virtual Animal Encounter Environment Project
