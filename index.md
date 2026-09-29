@@ -39,9 +39,9 @@
 ## Skills
 #### In order of competence, I think.
 
-### - Game Design
 ### - Level Design
-### - Virtual Environments
+### - Game Design
+### - Environment Art
 ### - Scripting
 
 ---
