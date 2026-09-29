@@ -58,7 +58,7 @@
 
 ### - [ANGM Fundamentals →](angm-fundamentals.md)
 
-### - [Level Design (Dallas College 2024) →](level-design.md)
+### - [Level Design (Dallas College 2024) →](level-design(DallasCollege).md)
 
 ---
 
