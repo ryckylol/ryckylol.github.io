@@ -48,7 +48,9 @@
 
 # Projects
 
-### - [Level Design (Dallas College) →](level-design.md)
+### - [Level Design 1(UTD 2026) →](level-design1.md) - WIP / will update by end of semester
+
+### - [Virtual Reality →](virtual-reality.md) - WIP / will update by end of semester
 
 ### - [Scripting for Games →](scripting-for-games.md)
 
@@ -56,8 +58,8 @@
 
 ### - [ANGM Fundamentals →](angm-fundamentals.md)
 
-### - [Level Design (UTD) →] - WIP / will update by end of semester
-### - [Virtual Reality →] - WIP / will update by end of semester
+### - [Level Design (Dallas College 2024) →](level-design.md)
+
 ---
 
 ## Contact
