@@ -6,4 +6,4 @@
 [**Project 1 (Laboratory) Vid Link →**]()
 
 ## Design Process / How I accomplished this
-[**Level Design Project Vid Link →**](LD_P01_Laboratory.md)
+[**Design Process Breakdown →**](LD_P01_Laboratory.md)
